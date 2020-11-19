@@ -48,7 +48,6 @@ body {
 
 .Name {
     color:#FEFFFF;
-    /* box-sizing: border-box; */
     height: 72px;
     display: flex;
     flex-direction: column;
